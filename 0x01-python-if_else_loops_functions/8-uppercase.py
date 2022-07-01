@@ -10,4 +10,3 @@ def uppercase(str):
         else:
             answer += chr(index)
     print('{}'.format(answer))
-    
