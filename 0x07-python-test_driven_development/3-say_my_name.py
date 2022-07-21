@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-say_my_name.py
-# Ahortu Derrick <ahortuderrick0@gmail.com>
+# Ahortu Victor Duncan <ahortuvictorduncan@gmail.com>
 """Defines a name-printing function."""
 
 

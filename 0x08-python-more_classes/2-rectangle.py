@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-rectangle.py
-# Ahortu Derrick <ahortuderrick0@gmail.com>
+# Ahortu Victor Duncan <ahortuvictorduncan@gmail.com>
 """Defines a Rectangle class."""
 
 

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-lazy_matrix_mul.py
-# Ahortu Derrick <ahortuderrick0@gmail.com>
+# Ahortu Victor Duncan <ahortuvictorduncan@gmail.com>
 """Defines a matrix multiplication function using NumPy."""
 import numpy as np
 

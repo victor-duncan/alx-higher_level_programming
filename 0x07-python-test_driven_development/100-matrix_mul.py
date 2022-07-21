@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-matrix_mul.py
-# Ahortu Derrick <ahortuderrick0@gmail.com>
+# Ahortu Victor Duncan <ahortuvictorduncan@gmail.com>
 """Defines a matrix multiplication function."""
 
 

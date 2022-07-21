@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-print_square.py
-# Ahortu Derrick <ahortuderrick0@gmail.com>
+# Ahortu Victor Duncan <ahortuvictorduncan@gmail.com>
 """Defines a square-printing function."""
 
 

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-singly_linked_list.py
-# Ahortu Derrick <ahortuderrick0@gmail.com>
+# Ahortu Victor Duncan <ahortuvictorduncan@gmail.com>
 """Define classes for a singly-linked list."""
 
 

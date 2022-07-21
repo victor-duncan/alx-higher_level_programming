@@ -1,6 +1,6 @@
 /*
  * File: 102-python.c
- * Auth: Ahortu Derrick
+ * Auth: Ahortu Victor Duncan
  */
 
 #include "Python.h"

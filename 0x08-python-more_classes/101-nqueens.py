@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-nqueens.py
-# Ahortu Derrick <ahortuderrick0@gmail.com>
+# Ahortu Victor Duncan <ahortuvictorduncan@gmail.com>
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
