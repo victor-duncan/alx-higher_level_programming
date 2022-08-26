@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 def islower(c):
-    ascii_num = ord(c)
-    if ascii_num >= 97 and ascii_num <= 122:
+    letter = ord(c)
+    if letter >= 97 and letter <= 123:
         return True
-    return False
+    else:
+        return False
